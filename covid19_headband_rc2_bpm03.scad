@@ -42,20 +42,16 @@ module extension(x)
 }
 
 module slot(y)
-{
 	translate([-1, 4, eh]) cube([4, y, ew]);
-}
 
-module slots()
+module slots(x)
 {
-	slot(slot_wide);
-	translate([0, 12, 0]) slot(slot_narrow);
-	translate([0, 20, 0]) slot(slot_narrow);
-}
-
-module bandslot(x)
-{
-	translate([x, 0, 0]) slots();
+	translate([x, 0, 0])
+	{
+		slot(slot_wide);
+		translate([0, 12, 0]) slot(slot_narrow);
+		translate([0, 20, 0]) slot(slot_narrow);
+	}
 }
 
 module headband_ext()
@@ -70,6 +66,6 @@ module headband_ext()
 difference()
 {
 	headband_ext();
-	bandslot(headband_left);
-	bandslot(headband_right);
+	slots(headband_left);
+	slots(headband_right);
 }
