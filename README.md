@@ -10,6 +10,6 @@ contains
 
 ![Modified headband](IMG_20200323_084829_small.jpg)
 
-Tip:  After attaching shield, placing rubberbands between each pair of left and right side posts adds an extra layer of robustness to the shield attachment.
+Tip:  After attaching shield, stretching rubberbands between each pair of left and right side posts adds an extra layer of robustness to the shield attachment.
 
 Thanks Joseph Prusa for your open support.  Original model was obtained [here](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1).
