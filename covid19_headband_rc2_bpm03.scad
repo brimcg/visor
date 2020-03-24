@@ -16,8 +16,7 @@ module headband_org()   // Why is it way off the the right?  Anyway hand force i
 	translate([-749, 65, 10]) import("covid19_headband_rc2.stl", convexity=4);
 
 module headband_hack()
-	difference()
-	{
+	difference() {
 		headband_org();
 		translate([-1, -1, -1]) cube([9, 25, 25]);
 		translate([183, -1, -1]) cube([9, 25, 25]);
@@ -27,15 +26,14 @@ module headband_hack()
 
 // Add my cinch strap design
 
-module prism(l, w, h){
+module prism(l, w, h) {
    translate([l, w, 0]) rotate([0, 0, 180]) polyhedron(
 		   points=[[0,0,0], [l,0,0], [l,w,0], [0,w,0], [0,w,h], [l,w,h]],
 		   faces=[[0,1,2,3],[5,4,3,2],[0,4,5,1],[0,3,4],[5,2,1]]
 		   );
 }
 
-module extension(x)
-{
+module extension(x) {
 	h = ew + 2*eh;
 	translate([x, 0, 0]) cube([2.5, 30, h]);
 	translate([x, 30, 20]) prism(2.5, 5, h-20);
@@ -44,18 +42,15 @@ module extension(x)
 module slot(y)
 	translate([-1, 4, eh]) cube([4, y, ew]);
 
-module slots(x)
-{
-	translate([x, 0, 0])
-	{
+module slots(x) {
+	translate([x, 0, 0]) {
 		slot(slot_wide);
 		translate([0, 12, 0]) slot(slot_narrow);
 		translate([0, 20, 0]) slot(slot_narrow);
 	}
 }
 
-module headband_ext()
-{
+module headband_ext() {
 	headband_hack();
 	extension(headband_left);
 	extension(headband_right);
@@ -63,8 +58,7 @@ module headband_ext()
 
 
 // Build it!!!
-difference()
-{
+difference() {
 	headband_ext();
 	slots(headband_left);
 	slots(headband_right);
