@@ -10,6 +10,8 @@ contains
 
 ![Modified headband](IMG_20200323_084829_small.jpg)
 
+Tip:  Zoom in on [large photo](IMG_20200323_084829.jpg) to see how strap is laced.
+
 Tip:  After attaching shield, stretching rubberbands between each pair of left and right side posts adds an extra layer of robustness to the shield attachment.
 
 Thanks Joseph Prusa for your open support.  Original model was obtained [here](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1).
