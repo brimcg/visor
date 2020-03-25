@@ -12,6 +12,6 @@ contains
 
 Tip:  Zoom in on [large photo](IMG_20200323_084829.jpg) to see how strap is laced.
 
-Tip:  After attaching shield, stretching rubberbands between each pair of left and right side posts adds an extra layer of robustness to the shield attachment particularly when shield is very thin transparency material with manual hole punches.
+Tip:  Paper clip the cut template to your transparency before punching holes to maintain proper hole alignment.
 
 Thanks Joseph Prusa for your open support.  Original model was obtained [here](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1).
