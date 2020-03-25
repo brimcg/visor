@@ -12,6 +12,6 @@ contains
 
 Tip:  Zoom in on [large photo](IMG_20200323_084829.jpg) to see how strap is laced.
 
-Tip:  Paper clip your printed [cut template](PrusaFaceShieldHoles.pdf) to your transparency before punching holes to maintain proper hole alignment.
+Tip:  Paper clip your printed [cut template](PrusaFaceShieldHolesRC2.pdf) to your transparency before punching holes to maintain proper hole alignment.
 
 Thanks Josef Prusa for your open support.  Original model was obtained [here](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1).
