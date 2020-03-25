@@ -1,5 +1,5 @@
 # Protective Visor Headband
-
+---
 ## Modification of Prusa covid19 visor headband to use elastic strap without button holes
 
 contains
@@ -10,7 +10,7 @@ contains
 
 ![Modified headband](IMG_20200323_084829_small.jpg)
 
-Tip:  See threading [instructions](LoopThread/ThreadInstructions.md) to attach elastic band.
+Tip:  See threading [instructions](LoopThread/ThreadInstructions.md) to attach elastic band.  The elastic band should be approximately 18" (38 mm).
 
 Tip:  Paper clip your printed [cut template](PrusaFaceShieldHolesRC2.pdf) to your transparency before punching holes to maintain proper hole alignment.
 
