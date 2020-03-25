@@ -10,7 +10,7 @@ contains
 
 ![Modified headband](IMG_20200323_084829_small.jpg)
 
-Tip:  See threading [instructions](ThreadInstructions.md) to attach elastic band.
+Tip:  See threading [instructions](LoopThread/ThreadInstructions.md) to attach elastic band.
 
 Tip:  Paper clip your printed [cut template](PrusaFaceShieldHolesRC2.pdf) to your transparency before punching holes to maintain proper hole alignment.
 
