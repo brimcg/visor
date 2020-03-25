@@ -10,7 +10,7 @@ contains
 
 ![Modified headband](IMG_20200323_084829_small.jpg)
 
-Tip:  Zoom in on [large photo](IMG_20200323_084829.jpg) to see how strap is laced.
+Tip:  See threading [instructions](ThreadInstructions.md) to attach elastic band.
 
 Tip:  Paper clip your printed [cut template](PrusaFaceShieldHolesRC2.pdf) to your transparency before punching holes to maintain proper hole alignment.
 
