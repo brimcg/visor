@@ -12,7 +12,7 @@ eh = 3.5;
 headband_left = 8;
 headband_right = 180.5;
 
-module headband_org()   // Why is it way off the the right?  Anyway hand force it to left corner.
+module headband_org()   // Why is it way off the right?  Anyway hand force it to left corner.
 	translate([-749, 65, 10]) import("covid19_headband_rc2.stl", convexity=4);
 
 module headband_hack()
@@ -26,7 +26,7 @@ module headband_hack()
 
 // Add my cinch strap design
 
-module prism(l, w, h) {
+module prism(l, w, h) {  //prism from OpenSCAD manual
    translate([l, w, 0]) rotate([0, 0, 180]) polyhedron(
 		   points=[[0,0,0], [l,0,0], [l,w,0], [0,w,0], [0,w,h], [l,w,h]],
 		   faces=[[0,1,2,3],[5,4,3,2],[0,4,5,1],[0,3,4],[5,2,1]]
