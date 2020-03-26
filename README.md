@@ -1,5 +1,5 @@
 # Protective Visor
----
+
 ## Modification of Prusa covid19 visor headband to use elastic strap without button holes
 
 contains
@@ -13,6 +13,8 @@ contains
 Tip:  See threading [instructions](LoopThread/ThreadInstructions.md) to attach elastic band.  The elastic band should be approximately 18" (38 mm).
 
 A fast, low cost way to make face shields is using overhead transparency sheets.  It just requires a hole punch and a printed [cut template](PrusaFaceShieldHolesRC2.pdf).  The sheet is attached by slipping its holes over the posts on the headband.  These sheets can be easily discarded and replaced with new ones for cleanliness.  The headband can be quickly sterilized for reuse.  Alternatively, lamination sheets have been reported to be used.
+
+![Assembled visor](IMG_20200325_170538_small.jpg)
 
 Tip:  Clip your printed [cut template](PrusaFaceShieldHolesRC2.pdf) to your transparency before punching holes to maintain proper hole alignment.
 
