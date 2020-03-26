@@ -18,4 +18,4 @@ A fast, low cost way to make face shields is using overhead transparency sheets.
 
 Tip:  Clip your printed [cut template](PrusaFaceShieldHolesRC2.pdf) to your transparency before punching holes to maintain proper hole alignment.
 
-Thanks Josef Prusa for your open support.  Original model was obtained [here](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1).  Their [link](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1) provides good documentation of the design and use.  The modifcations here were made to support rapid local use.
+Thanks Josef Prusa for your open support.  Original model was obtained [here](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1).  Their [link](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1) provides good documentation of the design and use.  The modifications here were made to support rapid local use.
