@@ -4,7 +4,7 @@
 
 contains
 - [original](covid19_headband_rc2.stl) Prusa RC2 STL model (downloaded Mar 22, 2020)
-- [modified](covid19_headband_rc2_bpm02.stl) Prusa RC2 STL model replacing strap attachment with cinch design to allow use of flat web strap without holes (using strap width of 3/4" or 20mm)
+- [modified](covid19_headband_rc2_bpm02.stl) Prusa RC2 STL model replacing strap attachment with cinch design to allow use of flat web strap without holes (using strap width of 3/4" or 20mm).  Import this STL into your printer's slicer to generate your machine's gcode.  Recommended material is PETG.
 - OpenSCAD [code](covid19_headband_rc2_bpm03.scad) used to generate modified STL model (easy change to different designed strap width)
 - PDF of [cut template](PrusaFaceShieldHolesRC2.pdf) for positioning holes in shield (using primarily overhead transparency sheets 8 1/2" by 11")
 
