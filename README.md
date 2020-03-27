@@ -1,21 +1,44 @@
 # Protective Visor
 
-## Modification of Prusa covid19 visor headband to use elastic strap without button holes
+## Design for Reusable Headband with Low Cost Replacement Shields
 
-contains
-- [original](covid19_headband_rc2.stl) Prusa RC2 STL model (downloaded Mar 22, 2020)
-- [modified](covid19_headband_rc2_bpm02.stl) Prusa RC2 STL model replacing strap attachment with cinch design to allow use of flat web strap without holes (using strap width of 3/4" or 20mm).  Import this STL into your printer's slicer to generate your machine's gcode.  Recommended material is PETG.
-- OpenSCAD [code](covid19_headband_rc2_bpm03.scad) used to generate modified STL model (easy change to different designed strap width)
-- PDF of [cut template](PrusaFaceShieldHolesRC2.pdf) for positioning holes in shield (using primarily overhead transparency sheets 8 1/2" by 11")
-
-![Modified headband](IMG_20200323_084829_small.jpg)
-
-Tip:  See threading [instructions](LoopThread/ThreadInstructions.md) to attach elastic band.  The elastic band should be approximately 18" (38 mm).
-
-A fast, low cost way to make face shields is using overhead transparency sheets.  It just requires a hole punch and a printed [cut template](PrusaFaceShieldHolesRC2.pdf).  The sheet is attached by slipping its holes over the posts on the headband.  These sheets can be easily discarded and replaced with new ones for cleanliness.  The headband can be quickly sterilized for reuse.  Alternatively, lamination sheets have been reported to be used as shields but I haven't tried.
+The urgent need for personal protection equipment in this time of covid19 pandemic is the motivation for these documents.
 
 ![Assembled visor](IMG_20200325_170538_small.jpg)
 
-Tip:  Clip your printed [cut template](PrusaFaceShieldHolesRC2.pdf) to your transparency before punching holes to maintain proper hole alignment.
 
-Thanks Josef Prusa for your open support.  Original model was obtained [here](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1).  Their [link](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1) provides good documentation of the design and use.  The modifications here were made to support rapid local use.
+### For Users:
+
+Visors to shield the face are the first contact line of defense when confronted with infected persons.  It is the purpose of these designs to provide a reusable headband that supports low cost, easily replacable shields.  Cheap plastic shields can consist of transparency sheets, lamination sheets, or other clear plastic sheets.
+
+To make shields easy to obtain in the US market, a standard three-hole punch design is utilized.  Thus high volume production of shields requires only a ream of transparency sheets and a three-hole punch, both of which are widely available.  Alternate shield materials can also be used if dimensioned to the standard 11" width.
+
+For other locations than US, the original designer, [Prusa](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1), has a four-hole punch design.
+
+Instructions:
+
+- [Threading](LoopThread/ThreadInstructions.md) of band for cinch design.  Tip:  The elastic band should be approximately 18" (38 mm).
+- Making shields for [three-hole design]()
+- Making shields for four-hole design using [cut template](PrusaFaceShieldHolesRC2.pdf)
+
+
+### For Makers:
+
+Help generate headbands for our urgent care providers!  They deparately need your help.  Here you will find:
+
+STL models for your slicer (PETG is recommended material):
+
+- Three-hole headband with [cinch design](stl/covid19_headband_3hole_cinch.stl) for flat 3/4" (38mm) elastic bands (non-elastic should also work)
+- Three-hole headband with [button design](stl/covid19_headband_3hole_button.stl) for button hole elastic band
+- Four-hole headband with [cinch design](stl/covid19_headband_rc2_cinch.stl)
+- Four-hole [original Prusa design](covid19_headband_rc2.stl) with button design
+
+Design tools used here so you can do your own modifications:
+
+- OpenSCAD design [software]()
+- OpenSCAD [code](covid19_headband_mods.scad) used to generate modified STL model (choose type and strap dimensions)
+
+![Modified headband](IMG_20200323_084829_small.jpg)
+
+
+Thanks Josef Prusa for your open design upon which this visor is based.  Original model was obtained [here](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1).  Their [link](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1) provides good documentation of the design and use.  The modifications here were made to support rapid local use.
