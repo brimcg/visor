@@ -19,6 +19,7 @@ Instructions:
 
 - [Threading](LoopThread/ThreadInstructions.md) of band for cinch design.  Tip:  The elastic band should be approximately 18" (38 mm).
 - Making shields for [three-hole design](3HoleShieldInstructions.md)
+- Making top [brow shields](BrowShieldInstructions.md) for three-hole design
 - Making shields for four-hole design using [cut template](PrusaFaceShieldHolesRC2.pdf)
 
 
