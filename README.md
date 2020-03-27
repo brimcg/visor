@@ -24,7 +24,7 @@ Instructions:
 
 ### For Makers:
 
-Help generate headbands for our urgent care providers!  They deparately need your help.  Here you will find:
+Help generate headbands for our urgent care providers!  They deperately need your help.  Here you will find:
 
 STL models for your slicer (PETG is recommended material):
 
