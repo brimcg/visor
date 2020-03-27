@@ -4,7 +4,7 @@
 //Creative Commons Zero v1.0 Universal
 ////////////////////////////////////////////////
 
-// Design type based off Prusa headband RC3 3/26/2020
+// Design type based off Prusa headband RC2 3/26/2020
 // https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1
 
 3_hole = true;		// false for original Prusa 4-hole
@@ -30,7 +30,7 @@ shield_radius = 100.1;
 
 
 
-module headband_org() {  // Why is it way off the the right?  Anyway hand force it to left corner.
+module headband_org() {  // Why is it way off to the right?  Anyway hand force it to left corner.
 	translate([-749, 65, 10]) import("covid19_headband_rc2.stl", convexity=4);
 //	translate([103.3, 74, 12]) import("covid19_headband_rc3.stl", convexity=4);
 }
