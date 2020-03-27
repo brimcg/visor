@@ -1,4 +1,7 @@
 # How to thread elastic band
+
+Tip: The elastic band should be approximately 18" (38 mm).
+
 Step 1: Thread elastic through wide hole from outside of headband
 
 ![Photo 1](LoopThread1.jpg)
