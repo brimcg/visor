@@ -35,7 +35,7 @@ STL models for your slicer (PETG is recommended material):
 
 Design tools used here so you can do your own modifications:
 
-- OpenSCAD design [software]()
+- OpenSCAD design [software](https://www.openscad.org/)
 - OpenSCAD [code](covid19_headband_mods.scad) used to generate modified STL model (choose type and strap dimensions)
 
 ![Modified headband](IMG_20200323_084829_small.jpg)
