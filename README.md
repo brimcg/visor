@@ -36,7 +36,7 @@ I've included an number of preconfigured STL models (see Design Tools below) for
 
 ##### Four-hole based on original Prusa
 - Four-hole headband with [cinch design](stl/covid19_headband_rc2_cinch.stl)
-- Four-hole [original Prusa design](covid19_headband_rc2.stl) with button design
+- Four-hole unmodified [original Prusa design](covid19_headband_rc2.stl) with button design
 
 #### Gcode
 Find gcode for Prusa MK3 printers [here](gcode/)
