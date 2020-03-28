@@ -27,7 +27,7 @@ Instructions:
 
 Help generate headbands for our urgent care providers!  They deperately need your help.  Choose a design the fits the elastic band that you can obtain, or modify to your own design.  Here you will find:
 
-STL models for your slicer (PETG is recommended material):
+STL models for your slicer (PETG is recommended material, 0.4mm nozzle, 0.2mm height, 20% infill):
 
 - Three-hole headband with [cinch design](stl/covid19_headband_3hole_cinch.stl) for flat 3/4" (38mm) elastic bands (non-elastic should also work)
 - Three-hole headband with [button design](stl/covid19_headband_3hole_button.stl) for button hole elastic band
