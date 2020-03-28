@@ -7,7 +7,7 @@ The urgent need for personal protection equipment in this time of covid19 pandem
 ![Assembled visor](IMG_20200325_170538_small.jpg)
 
 
-### For Users:
+### For Users
 
 Visors to shield the face are the first contact line of defense when confronted with infected persons.  It is the purpose of these designs to provide a reusable headband that supports low cost, easily replacable shields.  Cheap plastic shields can consist of transparency sheets, lamination sheets, or other clear plastic sheets.
 
@@ -15,7 +15,7 @@ To make shields easy to obtain in the US market, a standard three-hole punch des
 
 For other locations than US, the original designer, [Prusa](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1), has a four-hole punch design.
 
-Instructions:
+#### Instructions
 
 - [Threading](LoopThread/ThreadInstructions.md) of band for cinch design.  Tip:  The elastic band should be approximately 18" (38 mm).
 - Making shields for [three-hole design](3HoleShieldInstructions.md)
@@ -23,7 +23,7 @@ Instructions:
 - Making shields for four-hole design using [cut template](PrusaFaceShieldHolesRC2.pdf)
 
 
-### For Makers:
+### For Makers
 
 Help generate headbands for our urgent care providers!  They deperately need your help.  Choose a design the fits the elastic band that you can obtain, or modify to your own design.  Here you will find:
 
