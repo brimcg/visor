@@ -34,6 +34,8 @@ STL models for your slicer (PETG is recommended material, 0.4mm nozzle, 0.2mm he
 - Four-hole headband with [cinch design](stl/covid19_headband_rc2_cinch.stl)
 - Four-hole [original Prusa design](covid19_headband_rc2.stl) with button design
 
+Gcode for Prusa MK3 printers is [here](gcode/)
+
 Design tools used here so you can do your own modifications:
 
 - OpenSCAD design [software](https://www.openscad.org/)
