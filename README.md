@@ -27,19 +27,24 @@ Instructions:
 
 Help generate headbands for our urgent care providers!  They deperately need your help.  Choose a design the fits the elastic band that you can obtain, or modify to your own design.  Here you will find:
 
-STL models for your slicer (PETG is recommended material, 0.4mm nozzle, 0.2mm height, 20% infill):
+#### STL models
+I've included an number of preconfigured STL models (see Design Tools below) for different configurations.  Which is appropriate will be determined by the band materials you can obtain.  You can import any these directly to your slicer (PETG is recommended material, 0.4mm nozzle, 0.2mm height, 20% infill):
 
+##### Three-hole for US standard
 - Three-hole headband with [cinch design](stl/covid19_headband_3hole_cinch.stl) for flat 3/4" (38mm) elastic bands (non-elastic should also work)
 - Three-hole headband with [button design](stl/covid19_headband_3hole_button.stl) for button hole elastic band
+
+##### Four-hole based on original Prusa
 - Four-hole headband with [cinch design](stl/covid19_headband_rc2_cinch.stl)
 - Four-hole [original Prusa design](covid19_headband_rc2.stl) with button design
 
-Gcode for Prusa MK3 printers is [here](gcode/)
+#### Gcode
+Find gcode for Prusa MK3 printers [here](gcode/)
 
-Design tools used here so you can do your own modifications:
+#### Design tools used here so you can do your own modifications:
 
 - OpenSCAD design [software](https://www.openscad.org/)
-- OpenSCAD [code](covid19_headband_mods.scad) used to generate modified STL model (choose type and strap dimensions)
+- OpenSCAD [code](covid19_headband_mods.scad) used to generate modified STL model (easily choose your type and strap dimensions, self-expanatory parameters at beginning of the code)
 
 ![Modified headband](IMG_20200323_084829_small.jpg)
 
