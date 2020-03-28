@@ -4,12 +4,15 @@
 //Creative Commons Zero v1.0 Universal
 ////////////////////////////////////////////////
 
+qty = 1;			// >1 will print 2 max
+
 // Design type based off Prusa headband RC2 3/26/2020
 // https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1
 
 3_hole = true;		// false for original Prusa 4-hole
 cinch = true;		// false for original Prusa button
 
+pintest = false;	// true to build cropped part for pin location testing to save time and material;
 
 // Design variable for different elastic band dimensions
 
@@ -121,24 +124,34 @@ module headband_ext() {
 
 module logo() {
 	difference() {
-		translate([0, shield_radius-15, 10]) translate(shield_center) rotate([90, 0, 180]) linear_extrude(height = 20) text("GITHUB.COM/BRIMCG/VISOR", size = 4, halign = "center", valign = "center");
-		translate([0, 0, 10]) translate(shield_center) cylinder(h=25, r=shield_radius-0.5, $fn=200, center=true);
+		translate([0, shield_radius-15, 10]) translate(shield_center) rotate([90, 0, 180]) linear_extrude(height = 20) text("GITHUB.COM / BRIMCG / VISOR", size = 5, halign = "center", valign = "center");
+		translate([0, 0, 10]) translate(shield_center) cylinder(h=25, r=shield_radius-0.75, $fn=200, center=true);
 	}
 }
 
-module headband() {
-	difference() {
+module headband(angle = 0) {
+	center = (headband_right+2.5-headband_left)/2 + headband_left;
+	rotate([0, 0, angle]) translate([-center, -center+25, 0]) difference() {
 		headband_ext();
 		logo();
 		if(cinch) {
 			bandslot(headband_left);
 			bandslot(headband_right);
 		}
+		if(pintest) {	// crop out majority for pin testing
+			translate([0, -20, -1]) translate(shield_center) cylinder(h=50, r=shield_radius, $fn=100, center=false); 
+			translate([0, 0, 6]) cube([200, 200, 50]); 
+		}
 	}
 }
 
 // Build it!!!
-difference() {
-	headband();
-//	translate([0, -20, -1]) translate(shield_center) cylinder(h=50, r=shield_radius, $fn=100, center=false);  // crop out majority for pin testing
+%translate([0, 0, -0.5]) cube([250, 200, 1], center=true);  //virtual Prusa build bed
+
+if(qty > 1) {
+	shiftx = 35;
+	shifty = 16;
+	translate([shiftx, -shifty, 0]) headband(-135);
+	translate([-shiftx, shifty, 0]) headband(45);
 }
+else headband(180);
