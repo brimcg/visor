@@ -2,14 +2,14 @@
 
 ## Design for Reusable Headband with Low Cost Replacement Shields
 
-The urgent need for personal protection equipment in this time of covid19 pandemic is the motivation for these documents.
+The urgent need for personal protection equipment in this time of covid19 pandemic is the motivation for these documents.  This is an attempt to provide additional equipment by local community members to help with any shortages of approved equipment.  Please feel free to submit your own suggestions and feedback.
 
 ![Assembled visor](IMG_20200325_170538_small.jpg)
 
 ---
 ### For Users
 
-Visors to shield the face are the first contact line of defense when confronted with infected persons.  It is the purpose of these designs to provide a reusable headband that supports low cost, easily replacable shields.  Cheap plastic shields can consist of transparency sheets, lamination sheets, or other clear plastic sheets.
+Visors to shield the face are the first contact line of defense when confronted with infected persons.  It is the purpose of these designs to create a reusable headband that supports low cost, easily replacable shields.  Cheap plastic shields can consist of transparency sheets, lamination sheets, or other clear plastic sheets.
 
 To make shields easy to obtain in the US market, a standard three-hole punch design is utilized.  Thus high volume production of shields requires only a ream of transparency sheets and a three-hole punch, both of which are widely available.  Alternate shield materials can also be used if dimensioned to the standard 11" width.
 
@@ -25,7 +25,7 @@ For other locations than US, the original designer, [Prusa](https://www.prusapri
 
 ### For Makers
 
-Help generate headbands for our urgent care providers!  They deperately need your help.  Choose a design that fits the elastic band that you can obtain, or modify to your own design.  Here you will find:
+Help generate headbands for our urgent care providers!  They deperately need your help.  Choose a design that fits the elastic band that you can obtain, or modify to your own design.  If you do create equipment, it is important to create a sterile environment and handling so that you don't accidentally transmit any virus.  Here you will find:
 
 #### STL models
 I've included a number of preconfigured STL models for different configurations (see **Design Tools** below for generating your own variations of STL).  Which model to choose will be determined by the elastic band materials you can obtain.  You can import any of these directly to your slicer (PETG is recommended material, 0.4mm nozzle, 0.2mm height, 20% infill):
