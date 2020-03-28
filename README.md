@@ -25,7 +25,7 @@ For other locations than US, the original designer, [Prusa](https://www.prusapri
 
 ### For Makers
 
-Help generate headbands for our urgent care providers!  They deperately need your help.  Choose a design that fits the elastic band that you can obtain, or modify to your own design.  If you do create equipment, it is important to create a sterile environment and handling so that you don't accidentally transmit any virus.  Here you will find:
+Help generate headbands for our urgent care providers. Choose a design that fits the elastic band that you can obtain, or modify to your own design.  If you do create equipment, it is important to create a sterile environment and handling so that you don't accidentally transmit any virus.  Here you will find:
 
 #### STL models
 I've included a number of preconfigured STL models for different configurations (see **Design Tools** below for generating your own variations of STL).  Which model to choose will be determined by the elastic band materials you can obtain.  You can import any of these directly to your slicer (PETG is recommended material, 0.4mm nozzle, 0.2mm height, 20% infill):
