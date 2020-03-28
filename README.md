@@ -25,10 +25,10 @@ For other locations than US, the original designer, [Prusa](https://www.prusapri
 
 ### For Makers
 
-Help generate headbands for our urgent care providers!  They deperately need your help.  Choose a design the fits the elastic band that you can obtain, or modify to your own design.  Here you will find:
+Help generate headbands for our urgent care providers!  They deperately need your help.  Choose a design that fits the elastic band that you can obtain, or modify to your own design.  Here you will find:
 
 #### STL models
-I've included an number of preconfigured STL models (see Design Tools below) for different configurations.  Which is appropriate will be determined by the band materials you can obtain.  You can import any of these directly to your slicer (PETG is recommended material, 0.4mm nozzle, 0.2mm height, 20% infill):
+I've included a number of preconfigured STL models for different configurations (see **Design Tools** below for generating your own variations of STL).  Which model to choose will be determined by the elastic band materials you can obtain.  You can import any of these directly to your slicer (PETG is recommended material, 0.4mm nozzle, 0.2mm height, 20% infill):
 
 ##### Three-hole for US standard hole punch
 - Three-hole headband with [cinch design](stl/covid19_headband_3hole_cinch.stl) for flat 3/4" (38mm) elastic bands (non-elastic should also work)
@@ -52,8 +52,8 @@ Here are gcodes for some variations of designs that produce two parts each.  The
 
 #### Design tools used here so you can do your own modifications:
 
-- OpenSCAD design [software](https://www.openscad.org/)
-- OpenSCAD [code](covid19_headband_mods.scad) used to generate modified STL model (easily choose your type and strap dimensions, self-expanatory parameters at beginning of the code)
+- OpenSCAD design [software](https://www.openscad.org/).  You'll need to read their documents if it's new to you.
+- OpenSCAD [code](covid19_headband_mods.scad) used to generate modified STL model. You can easily choose your type and strap dimensions, self-expanatory parameters at beginning of the code.  Or use the code as a base for you own design code.
 
 ![Modified headband](IMG_20200323_084829_small.jpg)
 
