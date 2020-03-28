@@ -28,7 +28,7 @@ For other locations than US, the original designer, [Prusa](https://www.prusapri
 Help generate headbands for our urgent care providers!  They deperately need your help.  Choose a design the fits the elastic band that you can obtain, or modify to your own design.  Here you will find:
 
 #### STL models
-I've included an number of preconfigured STL models (see Design Tools below) for different configurations.  Which is appropriate will be determined by the band materials you can obtain.  You can import any these directly to your slicer (PETG is recommended material, 0.4mm nozzle, 0.2mm height, 20% infill):
+I've included an number of preconfigured STL models (see Design Tools below) for different configurations.  Which is appropriate will be determined by the band materials you can obtain.  You can import any of these directly to your slicer (PETG is recommended material, 0.4mm nozzle, 0.2mm height, 20% infill):
 
 ##### Three-hole for US standard
 - Three-hole headband with [cinch design](stl/covid19_headband_3hole_cinch.stl) for flat 3/4" (38mm) elastic bands (non-elastic should also work)
