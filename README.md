@@ -6,7 +6,7 @@ The urgent need for personal protection equipment in this time of covid19 pandem
 
 ![Assembled visor](IMG_20200325_170538_small.jpg)
 
-
+---
 ### For Users
 
 Visors to shield the face are the first contact line of defense when confronted with infected persons.  It is the purpose of these designs to provide a reusable headband that supports low cost, easily replacable shields.  Cheap plastic shields can consist of transparency sheets, lamination sheets, or other clear plastic sheets.
@@ -21,7 +21,7 @@ For other locations than US, the original designer, [Prusa](https://www.prusapri
 - Making shields for [three-hole design](3HoleShieldInstructions.md)
 - Making top [brow shields](BrowShieldInstructions.md) for three-hole design
 - Making shields for four-hole design using [cut template](PrusaFaceShieldHolesRC2.pdf)
-
+---
 
 ### For Makers
 
