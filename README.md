@@ -1,4 +1,4 @@
-# Protective Visor for covid19 pandemic
+# Protective Visor for COVID-19 pandemic
 
 ## Design for Reusable Headband with Low Cost Replacement Shields
 
