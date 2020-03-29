@@ -34,7 +34,7 @@ I've included a number of preconfigured STL models for different configurations 
 - Three-hole headband with [cinch design](stl/covid19_headband_3hole_cinch.stl) for flat 3/4" (38mm) elastic bands (non-elastic should also work) [(Qty 2)](stl/covid19_headband_3hole_cinch_qty2.stl)
 - Three-hole headband with [button design](stl/covid19_headband_3hole_button.stl) for button hole elastic band [(Qty 2)](stl/covid19_headband_3hole_button_qty2.stl)
 
-##### Four-hole based on original Prusa
+##### Four-hole based on original Prusa RC2
 - Four-hole headband with [cinch design](stl/covid19_headband_rc2_cinch.stl) [(Qty 2)](stl/covid19_headband_rc2_cinch_qty2.stl)
 - Four-hole unmodified [original Prusa design RC2](covid19_headband_rc2_button.stl) with button design [(Qty 2)](covid19_headband_rc2_button_qty2.stl)
 
