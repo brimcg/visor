@@ -36,18 +36,7 @@ I've included a number of preconfigured STL models for different configurations 
 
 ##### Four-hole based on original Prusa
 - Four-hole headband with [cinch design](stl/covid19_headband_rc2_cinch.stl) [(Qty 2)](stl/covid19_headband_rc2_cinch_qty2.stl)
-- Four-hole unmodified [original Prusa design](covid19_headband_rc2_button.stl) with button design [(Qty 2)](covid19_headband_rc2_button_qty2.stl)
-
-#### Gcode
-Here are gcodes for some variations of designs that produce two parts each.  The gcode was setup for Prusa MK3 printer.  I can't speak for using it on other printers.
-
-##### Three-hole for US standard hole punch
-###### PETG/PET
-- Quantity of 2: Three-hole headband with [cinch design](gcode/covid19_headband_3hole_cinch_qty2_PET_FAST.gcode) for flat 3/4" (38mm) elastic bands (non-elastic should also work)
-- Quantity of 2: Three-hole headband with [button design](gcode/covid19_headband_3hole_button-qty2_PET_FAST.gcode) for button hole elastic band
-- Quantity of 2: Three-hole headband with one cinch design and one button design [combined](gcode/covid19_headband_3hole_both_qty2_PET_FAST.gcode)
-###### PLA
-- Quantity of 2: Three-hole headband with [cinch design](gcode/covid19_headband_3hole_cinch_qty2_PLA_FAST.gcode) for flat 3/4" (38mm) elastic bands (non-elastic should also work)
+- Four-hole unmodified [original Prusa design RC2](covid19_headband_rc2_button.stl) with button design [(Qty 2)](covid19_headband_rc2_button_qty2.stl)
 
 
 #### Design tools used here so you can do your own modifications:
