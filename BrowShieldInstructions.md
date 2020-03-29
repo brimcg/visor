@@ -4,13 +4,13 @@ The open top design of the headband allows for flexibility, reduced print time, 
 
 To reduce this pathway, here's an idea for a really cheap brow shield.  Requirements:
 
-- 3-hole punch paper
+- 3-hole punch sheet (plastic or paper)
 - Scissors or paper cutter
 - Stapler or tape
 
 Instructions:
 
-1. Hole punch paper if not already punched
+1. Hole punch sheet if not already punched
 2. Cut lengthwise to desired height
 2. Snap onto headband pins
 3. Small fold down center to create crown
