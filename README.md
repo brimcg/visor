@@ -21,6 +21,7 @@ For other locations than US, the original designer, [Prusa](https://www.prusapri
 - Making shields for [three-hole design](3HoleShieldInstructions.md)
 - Making top [brow shields](BrowShieldInstructions.md) for three-hole design
 - Making shields for four-hole design using [cut template](PrusaFaceShieldHolesRC2.pdf)
+
 ---
 
 ### For Makers
