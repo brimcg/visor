@@ -37,7 +37,7 @@ I've included a number of preconfigured STL models for different configurations 
 
 ##### Four-hole based on original Prusa RC2
 - Four-hole headband with [cinch design](stl/covid19_headband_rc2_cinch.stl) [(Qty 2)](stl/covid19_headband_rc2_cinch_qty2.stl)
-- Four-hole unmodified [original Prusa design RC2](covid19_headband_rc2_button.stl) with button design [(Qty 2)](covid19_headband_rc2_button_qty2.stl)
+- Four-hole unmodified [original Prusa design RC2](https://media.prusaprinters.org/media/prints/25857/stls/262889_f36e1c00-1a2b-4858-bf22-9ee404d997b1/covid19_headband_rc2.stl#_ga=2.112107788.908239440.1585521777-1757224734.1584656549) with button design
 
 
 #### Design tools used here so you can do your own modifications:
