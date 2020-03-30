@@ -4,7 +4,7 @@
 //Creative Commons Zero v1.0 Universal
 ////////////////////////////////////////////////
 
-qty = 2;			// >1 will print 2 max
+qty = 1;			// >1 will print 2 max
 
 // Design type based off Prusa headband RC2 3/26/2020
 // https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1
@@ -66,8 +66,9 @@ module prism(l, w, h) {
 
 module extension(x) {
 	h = ew + 2*eh;
-	translate([x, 0, 0]) cube([2.5, 30, h]);
-	translate([x, 30, 20]) prism(2.5, 5, h-20);
+	if(h < 20) translate([x, 0, 0]) cube([2.5, 30, 20]);
+	else translate([x, 0, 0]) cube([2.5, 30, h]);
+	if(h > 20) translate([x, 30, 20]) prism(2.5, 5, h-20);
 }
 
 module slot(y) {
