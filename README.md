@@ -2,6 +2,8 @@
 
 ## Design for Reusable Headband with Low Cost Replacement Shields
 
+> *New!*  Slim design released features soft spring brow band, cord strap. Prints in half the time with half the material.
+
 The urgent need for personal protection equipment in this time of covid19 pandemic is the motivation for these documents.  This is an attempt to provide additional equipment by local community members to help with any shortages of approved equipment.  Please feel free to submit your own suggestions and feedback.
 
 ![Assembled visor](IMG_20200325_170538_small.jpg)
@@ -34,6 +36,7 @@ I've included a number of preconfigured STL models for different configurations 
 ##### Three-hole for US standard hole punch
 - Three-hole headband with [cinch design](stl/covid19_headband_3hole_cinch.stl) for flat 3/4" (38mm) elastic bands (non-elastic should also work) [(Qty 2)](stl/covid19_headband_3hole_cinch_qty2.stl)
 - Three-hole headband with [button design](stl/covid19_headband_3hole_button.stl) for button hole elastic band [(Qty 2)](stl/covid19_headband_3hole_button_qty2.stl)
+- Three-hole headband with [cord design](stl/covid19_headband_3hole_cord_slim.stl) for parachute cord strap.  Soft spring browband design provides elasticity.
 
 ##### Four-hole based on original Prusa RC2
 - Four-hole headband with [cinch design](stl/covid19_headband_rc2_cinch.stl) [(Qty 2)](stl/covid19_headband_rc2_cinch_qty2.stl)
