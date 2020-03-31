@@ -1,4 +1,4 @@
-# Protective Face Shield for COVID-19 pandemic
+# Protective Face Shield for COVID-19
 
 ## Design for Reusable Headband with Low Cost Replacement Shields
 
