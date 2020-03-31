@@ -31,7 +31,7 @@ For other locations than US, the original designer, [Prusa](https://www.prusapri
 
 ### For Makers
 
-Help generate headbands for our urgent care providers. Choose a design that fits the elastic band that you can obtain, or modify to your own design.  If you do create equipment, it is important to create a sterile environment and handling so that you don't accidentally transmit any virus.  Here you will find:
+Help generate headbands for our urgent care providers. Choose a design that fits the band that you can obtain, or modify to your own design.  If you do create equipment, it is important to create a sterile environment and handling so that you don't accidentally transmit any virus.  Here you will find:
 
 #### STL models
 I've included a number of preconfigured STL models for different configurations (see **Design Tools** below for generating your own variations of STL).  Which model to choose will be determined by the elastic band materials you can obtain.  You can import any of these directly to your slicer (PETG is recommended material, 0.4mm nozzle, 0.2mm height, 20% infill):
@@ -53,4 +53,6 @@ I've included a number of preconfigured STL models for different configurations 
 - OpenSCAD design [software](https://www.openscad.org/).  You'll need to read their documents if it's new to you.
 - OpenSCAD [code](covid19_headband_mods.scad) used to generate modified STL model. You can easily choose your type and strap dimensions, self-expanatory parameters at beginning of the code.  Or use the code as a base for you own design code.
 
-Thanks Josef Prusa for your open design upon which this visor is based.  Original model was obtained [here](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1).  Their [link](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1) provides good documentation of the design and use.  The modifications here were made to support rapid local use.
+![slim visor](IMG_20200330_141926.jpg)
+
+Thanks Josef Prusa and team for your open design upon which this visor is based.  Original model was obtained [here](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1).  Their [link](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1) provides good documentation of the design and use.  The modifications here were made to support rapid local use.
