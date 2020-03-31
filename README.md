@@ -1,14 +1,15 @@
-# Protective Visor for COVID-19 pandemic
+# Protective Face Shield for COVID-19 pandemic
 
 ## Design for Reusable Headband with Low Cost Replacement Shields
+
+![headband mods](covid19_headband_mods.jpg)
+![Assembled visor](IMG_20200325_170538_small.jpg)
 
 > *New!*  Slim design released features soft spring brow band, cord strap. Prints in half the time with half the material.
 >
 > Supply and time shortages led to this modification.  Elastics are getting harder to find, but parachute cord exists in much larger volumes.  By designing the elasticity into the headband itself, a non-elastic cord can be used.  Reducing material for printing doubles production volume with no cost.
 
 The urgent need for personal protection equipment in this time of covid19 pandemic is the motivation for these documents.  This is an attempt to provide additional equipment by local community members to help with any shortages of approved equipment.  Please feel free to submit your own suggestions and feedback.
-
-![Assembled visor](IMG_20200325_170538_small.jpg)
 
 ---
 ### For Users
@@ -51,8 +52,5 @@ I've included a number of preconfigured STL models for different configurations 
 
 - OpenSCAD design [software](https://www.openscad.org/).  You'll need to read their documents if it's new to you.
 - OpenSCAD [code](covid19_headband_mods.scad) used to generate modified STL model. You can easily choose your type and strap dimensions, self-expanatory parameters at beginning of the code.  Or use the code as a base for you own design code.
-
-![Modified headband](IMG_20200323_084829_small.jpg)
-
 
 Thanks Josef Prusa for your open design upon which this visor is based.  Original model was obtained [here](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1).  Their [link](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1) provides good documentation of the design and use.  The modifications here were made to support rapid local use.
