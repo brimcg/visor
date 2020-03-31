@@ -46,6 +46,7 @@ I've included a number of preconfigured STL models for different configurations 
 ##### Four-hole based on original Prusa RC2
 - Four-hole headband with [cinch design](stl/covid19_headband_rc2_cinch.stl) [(Qty 2)](stl/covid19_headband_rc2_cinch_qty2.stl)
 - Four-hole unmodified [original Prusa design RC2](stl/covid19_headband_rc2_button.stl) with button design [(Qty 2)](stl/covid19_headband_rc2_button_qty2.stl)
+- Four-hole headband with [slim cord design](stl/covid19_headband_rc3_cord_slim.stl) for parachute cord strap.  [(Qty 2)](stl/covid19_headband_rc3_cord_slim_qty2.stl) Soft spring browband design provides elasticity.  **Slim design reduces print time and material by half!**
 
 
 #### Design tools used here so you can do your own modifications:
