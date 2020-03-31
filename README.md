@@ -3,6 +3,8 @@
 ## Design for Reusable Headband with Low Cost Replacement Shields
 
 > *New!*  Slim design released features soft spring brow band, cord strap. Prints in half the time with half the material.
+>
+> Supply and time shortages led to this modification.  Elastics are getting harder to find, but parachute cord exists in much larger volumes.  By designing the elasticity into the headband itself, a non-elastic cord can be used.  Reducing material for printing doubles production volume with no cost.
 
 The urgent need for personal protection equipment in this time of covid19 pandemic is the motivation for these documents.  This is an attempt to provide additional equipment by local community members to help with any shortages of approved equipment.  Please feel free to submit your own suggestions and feedback.
 
