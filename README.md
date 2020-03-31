@@ -19,7 +19,7 @@ For other locations than US, the original designer, [Prusa](https://www.prusapri
 
 #### Instructions
 
-- [Threading](LoopThread/ThreadInstructions.md) of band for cinch design.  Tip:  The elastic band should be approximately 18" (46cm).
+- [Threading](LoopThread/ThreadInstructions.md) of band for cinch or slim cord designs.  Tip:  The elastic band should be approximately 18" (46cm).
 - Making shields for [three-hole design](3HoleShieldInstructions.md)
 - Making top [brow shields](BrowShieldInstructions.md) for three-hole design
 - Making shields for four-hole design using [cut template](PrusaFaceShieldHolesRC2.pdf)
@@ -36,7 +36,9 @@ I've included a number of preconfigured STL models for different configurations 
 ##### Three-hole for US standard hole punch
 - Three-hole headband with [cinch design](stl/covid19_headband_3hole_cinch.stl) for flat 3/4" (38mm) elastic bands (non-elastic should also work) [(Qty 2)](stl/covid19_headband_3hole_cinch_qty2.stl)
 - Three-hole headband with [button design](stl/covid19_headband_3hole_button.stl) for button hole elastic band [(Qty 2)](stl/covid19_headband_3hole_button_qty2.stl)
-- Three-hole headband with [cord design](stl/covid19_headband_3hole_cord_slim.stl) for parachute cord strap.  Soft spring browband design provides elasticity.
+- Three-hole headband with [slim cord design](stl/covid19_headband_3hole_cord_slim.stl) for parachute cord strap.  Soft spring browband design provides elasticity.  **Slim design reduces print time and material by half!**
+
+![Slim design](covid19_headband_3hole_cord_slim.png)
 
 ##### Four-hole based on original Prusa RC2
 - Four-hole headband with [cinch design](stl/covid19_headband_rc2_cinch.stl) [(Qty 2)](stl/covid19_headband_rc2_cinch_qty2.stl)
