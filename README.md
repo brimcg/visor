@@ -53,6 +53,7 @@ I've included a number of preconfigured STL models for different configurations 
 - OpenSCAD design [software](https://www.openscad.org/).  You'll need to read their documents if it's new to you.
 - OpenSCAD [code](covid19_headband_mods.scad) used to generate modified STL model. You can easily choose your type and strap dimensions, self-expanatory parameters at beginning of the code.  Or use the code as a base for you own design code.
 
-![slim visor](IMG_20200330_141926.jpg) Slim headband with face shield and brow shield
+![slim visor](IMG_20200330_141926.jpg)</br>
+Slim headband with face shield and brow shield
 
 Thanks Josef Prusa and team for your open design upon which this visor is based.  Original model was obtained [here](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1).  Their [link](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1) provides good documentation of the design and use.  The modifications here were made to support rapid local use.
