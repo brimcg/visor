@@ -2,10 +2,10 @@
 
 ## Design for Reusable Headband with Low Cost Replacement Shields
 
-![headband mods](covid19_headband_mods.jpg)
-![Assembled visor](IMG_20200325_170538_small.jpg)
+![full assembled model](FullFaceHeadShield.png)
+![headband and brow shield](slim_headband_headshield.jpg)
 
-> *New!*  Slim design released features soft spring brow band, cord strap. Prints in half the time with half the material.
+> *New!*  Slim design released features soft spring brow band, cord strap. Prints in half the time with half the material.  Add a brow shield for top protection.
 >
 > Supply and time shortages led to this modification.  Elastics are getting harder to find, but parachute cord exists in much larger volumes.  By designing the elasticity into the headband itself, a non-elastic cord can be used.  Reducing material for printing doubles production volume with no cost.
 
