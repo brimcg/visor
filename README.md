@@ -12,6 +12,8 @@
 The urgent need for personal protection equipment in this time of covid19 pandemic is the motivation for these documents.  This is an attempt to provide additional equipment by local community members to help with any shortages of approved equipment.  Please feel free to submit your own suggestions and feedback.
 
 ---
+---
+
 ### For Users
 
 Visors to shield the face are the first contact line of defense when confronted with infected persons.  It is the purpose of these designs to create a reusable headband that supports low cost, easily replacable shields.  Cheap plastic shields can consist of transparency sheets, lamination sheets, or other clear plastic sheets.
@@ -28,6 +30,7 @@ For other locations than US, the original designer, [Prusa](https://www.prusapri
 - Making shields for four-hole design using [cut template](PrusaFaceShieldHolesRC2.pdf)
 
 ---
+---
 
 ### For Makers
 
@@ -36,17 +39,21 @@ Help generate headbands for our urgent care providers. Choose a design that fits
 #### STL models
 I've included a number of preconfigured STL models for different configurations (see **Design Tools** below for generating your own variations of STL).  Which model to choose will be determined by the elastic band materials you can obtain.  You can import any of these directly to your slicer (PETG is recommended material, 0.4mm nozzle, 0.2mm height, 20% infill):
 
-##### Three-hole for US standard hole punch
-- Three-hole headband with [slim cord design](stl/covid19_headband_3hole_cord_slim.stl) for parachute cord strap.  [(Qty 2)](stl/covid19_headband_3hole_cord_slim_qty2.stl) Soft spring browband design provides elasticity.  **Slim design reduces print time and material by half!**
-- Three-hole headband with [cinch design](stl/covid19_headband_3hole_cinch.stl) for flat 3/4" (38mm) elastic bands (non-elastic should also work) [(Qty 2)](stl/covid19_headband_3hole_cinch_qty2.stl)
-- Three-hole headband with [button design](stl/covid19_headband_3hole_button.stl) for button hole elastic band [(Qty 2)](stl/covid19_headband_3hole_button_qty2.stl)
+##### Three designs for 3-hole shields created with US standard hole punch
+- Three-pin headband with [slim cord design](stl/covid19_headband_3hole_cord_slim.stl) for parachute cord strap.  [(Qty 2)](stl/covid19_headband_3hole_cord_slim_qty2.stl) Soft spring browband design provides elasticity.  **Slim design reduces print time and material by half!**
+
+- Three-pin headband with [cinch design](stl/covid19_headband_3hole_cinch.stl) for flat 3/4" (38mm) elastic bands (non-elastic should also work) [(Qty 2)](stl/covid19_headband_3hole_cinch_qty2.stl)
+
+- Three-pin headband with [button design](stl/covid19_headband_3hole_button.stl) for button hole elastic band [(Qty 2)](stl/covid19_headband_3hole_button_qty2.stl)
 
 ![Slim design](covid19_headband_3hole_cord_slim.png)![Slim design 2 pieces](covid19_headband_3hole_cord_slim2.png)
 
-##### Four-hole based on original Prusa RC2
-- Four-hole headband with [slim cord design](stl/covid19_headband_rc3_cord_slim.stl) for parachute cord strap.  [(Qty 2)](stl/covid19_headband_rc3_cord_slim_qty2.stl) Soft spring browband design provides elasticity.  **Slim design reduces print time and material by half!**
-- Four-hole headband with [cinch design](stl/covid19_headband_rc2_cinch.stl) [(Qty 2)](stl/covid19_headband_rc2_cinch_qty2.stl)
-- Four-hole unmodified [original Prusa design RC2](stl/covid19_headband_rc2_button.stl) with button design [(Qty 2)](stl/covid19_headband_rc2_button_qty2.stl)
+##### Three designs for 4-hole based on original Prusa RC2
+- Four-pin headband with [slim cord design](stl/covid19_headband_rc3_cord_slim.stl) for parachute cord strap.  [(Qty 2)](stl/covid19_headband_rc3_cord_slim_qty2.stl) Soft spring browband design provides elasticity.  **Slim design reduces print time and material by half!**
+
+- Four-pin headband with [cinch design](stl/covid19_headband_rc2_cinch.stl) [(Qty 2)](stl/covid19_headband_rc2_cinch_qty2.stl)
+
+- Four-pin unmodified [original Prusa design RC2](stl/covid19_headband_rc2_button.stl) with button design [(Qty 2)](stl/covid19_headband_rc2_button_qty2.stl)
 
 
 #### Design tools used here so you can do your own modifications:
