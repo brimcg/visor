@@ -1,5 +1,8 @@
 ## Instructions for a cheap brow shield
 
+> New!  Updated brow shield design.  Updated instructions and template coming soon.
+> ![new brow shield](slim_headband_headshield.jpg)
+
 The open top design of the headband allows for flexibility, reduced print time, and reduced material usage.  But it opens up pathway for airborne particles.
 
 To reduce this pathway, here's an idea for a really cheap brow shield.  Requirements:
