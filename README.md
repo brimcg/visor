@@ -20,7 +20,7 @@ Slim headband with brow shield
 
 ![headband and face shield](IMG_20200325_170538_small.jpg)
 
-Older headband with cinch strap and face shield
+Prior headband with cinch strap and face shield
 
 ---
 
