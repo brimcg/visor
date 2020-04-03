@@ -3,8 +3,22 @@
 ## Design for Reusable Headband with Low Cost Replacement Shields
 
 ![full assembled model](FullFaceHeadShield.png)
+
+Fully assembled slim headband with face shield and brow shield
+
+---
+
 ![headband and brow shield](slim_headband_headshield.jpg)
+
+Slim headband with brow shield
+
+---
+
 ![headband and face shield](IMG_20200325_170538_small.jpg)
+
+Older headband with cinch strap and face shield
+
+---
 
 > *New!*  Slim design released: features soft spring brow band, cord strap. Prints in half the time with half the material.  Add a brow shield for top protection.
 >
