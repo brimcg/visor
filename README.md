@@ -40,24 +40,24 @@ Help generate headbands for our urgent care providers. Choose a design that fits
 #### STL models
 I've included a number of preconfigured STL models for different configurations (see **Design Tools** below for generating your own variations of STL).  Which model to choose will be determined by the elastic band materials you can obtain.  You can import any of these directly to your slicer (PETG is recommended material, 0.4mm nozzle, 0.2mm height, 20% infill):
 
-##### Designs for 3-hole shields using US standard hole punch
-- Three-pin headband with [slim cord design](stl/covid19_headband_3hole_cord_slim.stl) for parachute cord strap.  [(Qty 2)](stl/covid19_headband_3hole_cord_slim_qty2.stl) Soft spring browband design provides elasticity.  **Slim design reduces print time and material by half!**
+##### STL design models for 3-hole shields using US standard hole punch
+- Three-pin headband with **slim cord design** [(Qty 1)](stl/covid19_headband_3hole_cord_slim.stl) [(Qty 2)](stl/covid19_headband_3hole_cord_slim_qty2.stl) for parachute cord strap. Soft spring browband design provides elasticity.  *Slim design reduces print time and material by half!*
 
 [![Slim design](covid19_headband_3hole_cord_slim.png)](stl/covid19_headband_3hole_cord_slim.stl) [![Slim design 2 pieces](covid19_headband_3hole_cord_slim2.png)](stl/covid19_headband_3hole_cord_slim_qty2.stl)
 
-- Three-pin headband with [cinch design](stl/covid19_headband_3hole_cinch.stl) for flat 3/4" (38mm) elastic bands (non-elastic should also work) [(Qty 2)](stl/covid19_headband_3hole_cinch_qty2.stl)
+- Three-pin headband with **cinch design** [(Qty 1)](stl/covid19_headband_3hole_cinch.stl)[(Qty 2)](stl/covid19_headband_3hole_cinch_qty2.stl) for flat 3/4" (38mm) elastic bands (non-elastic should also work)
 
-- Three-pin headband with [button design](stl/covid19_headband_3hole_button.stl) for button hole elastic band [(Qty 2)](stl/covid19_headband_3hole_button_qty2.stl) (Update: Prusa has newly released their official version of this type of design.)
+- Three-pin headband with **button design** [(Qty 1)](stl/covid19_headband_3hole_button.stl) [(Qty 2)](stl/covid19_headband_3hole_button_qty2.stl) for button hole elastic band  (Update: Prusa has newly released their official version of this type of design.)
 
-##### Designs for 4-hole shields based on original Prusa RC2
-- Four-pin headband with [slim cord design](stl/covid19_headband_rc3_cord_slim.stl) for parachute cord strap.  [(Qty 2)](stl/covid19_headband_rc3_cord_slim_qty2.stl) Soft spring browband design provides elasticity.  **Slim design reduces print time and material by half!**
+##### STL design models for 4-hole shields based on original Prusa RC2
+- Four-pin headband with **slim cord design** [(Qty 1)](stl/covid19_headband_rc3_cord_slim.stl)[(Qty 2)](stl/covid19_headband_rc3_cord_slim_qty2.stl) for parachute cord strap. Soft spring browband design provides elasticity.  *Slim design reduces print time and material by half!*
 
-- Four-pin headband with [cinch design](stl/covid19_headband_rc2_cinch.stl) [(Qty 2)](stl/covid19_headband_rc2_cinch_qty2.stl)
+- Four-pin headband with **cinch design** [(Qty 1)](stl/covid19_headband_rc2_cinch.stl) [(Qty 2)](stl/covid19_headband_rc2_cinch_qty2.stl)
 
-- Four-pin unmodified [original Prusa design RC2](stl/covid19_headband_rc2_button.stl) with button design [(Qty 2)](stl/covid19_headband_rc2_button_qty2.stl)
+- Four-pin unmodified **original Prusa design RC2** [(Qty 1)](stl/covid19_headband_rc2_button.stl) [(Qty 2)](stl/covid19_headband_rc2_button_qty2.stl) with button design 
 
 
-#### Design tools used here so you can do your own modifications:
+#### CAD design tools used here so you can do your own modifications:
 
 - OpenSCAD design [software](https://www.openscad.org/).  You'll need to read their documents if it's new to you.
 - OpenSCAD [code](covid19_headband_mods.scad) used to generate modified STL model (except slim cord design, sorry, later). You can easily choose your type and strap dimensions, self-expanatory parameters at beginning of the code.  Or use the code as a base for you own design code.
