@@ -45,12 +45,12 @@ I've included a number of preconfigured STL models for different configurations 
 
 [![Slim design](covid19_headband_3hole_cord_slim.png)](stl/covid19_headband_3hole_cord_slim.stl) [![Slim design 2 pieces](covid19_headband_3hole_cord_slim2.png)](stl/covid19_headband_3hole_cord_slim_qty2.stl)
 
-- Three-pin headband with **cinch design** [(Qty 1)](stl/covid19_headband_3hole_cinch.stl)[(Qty 2)](stl/covid19_headband_3hole_cinch_qty2.stl) for flat 3/4" (38mm) elastic bands (non-elastic should also work)
+- Three-pin headband with **cinch design** [(Qty 1)](stl/covid19_headband_3hole_cinch.stl) [(Qty 2)](stl/covid19_headband_3hole_cinch_qty2.stl) for flat 3/4" (38mm) elastic bands (non-elastic bands can also marginally work)
 
 - Three-pin headband with **button design** [(Qty 1)](stl/covid19_headband_3hole_button.stl) [(Qty 2)](stl/covid19_headband_3hole_button_qty2.stl) for button hole elastic band  (Update: Prusa has newly released their official version of this type of design.)
 
 ##### STL design models for 4-hole shields based on original Prusa RC2
-- Four-pin headband with **slim cord design** [(Qty 1)](stl/covid19_headband_rc3_cord_slim.stl)[(Qty 2)](stl/covid19_headband_rc3_cord_slim_qty2.stl) for parachute cord strap. Soft spring browband design provides elasticity.  *Slim design reduces print time and material by half!*
+- Four-pin headband with **slim cord design** [(Qty 1)](stl/covid19_headband_rc3_cord_slim.stl) [(Qty 2)](stl/covid19_headband_rc3_cord_slim_qty2.stl) for parachute cord strap. Soft spring browband design provides elasticity.  *Slim design reduces print time and material by half!*
 
 - Four-pin headband with **cinch design** [(Qty 1)](stl/covid19_headband_rc2_cinch.stl) [(Qty 2)](stl/covid19_headband_rc2_cinch_qty2.stl)
 
