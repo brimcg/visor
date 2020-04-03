@@ -4,6 +4,8 @@
 
 > *New!*  Slim design released: features soft spring brow band, cord strap. Prints in half the time with half the material.  Add a brow shield for top protection.
 >
+> *Update 4/3/2020!* Added strength to attachment of soft spring to the brow band.  Please update your STL files.
+>
 > Supply and time shortages led to this modification.  Elastics are getting harder to find, but parachute cord exists in much larger volumes.  By designing the elasticity into the headband itself, a non-elastic cord can be used.  Reducing material for printing doubles production volume with no cost.
 
 ![full assembled model](FullFaceHeadShield.png)
@@ -57,6 +59,7 @@ I've included a number of preconfigured STL models for different configurations 
 
 ##### STL design models for 3-hole shields using US standard hole punch
 - Three-pin headband with **slim cord design** [(Qty 1)](stl/covid19_headband_3hole_cord_slim.stl) [(Qty 2)](stl/covid19_headband_3hole_cord_slim_qty2.stl) for parachute cord strap. Soft spring browband design provides elasticity.  *Slim design reduces print time and material by half!*
+ </br>**Update 4/3/2020!** Added strength to attachment of soft spring to the brow band.  Please update your STL files.
 
 [![Slim design](covid19_headband_3hole_cord_slim.png)](stl/covid19_headband_3hole_cord_slim.stl) [![Slim design 2 pieces](covid19_headband_3hole_cord_slim2.png)](stl/covid19_headband_3hole_cord_slim_qty2.stl)
 
@@ -66,6 +69,7 @@ I've included a number of preconfigured STL models for different configurations 
 
 ##### STL design models for 4-hole shields based on original Prusa RC2
 - Four-pin headband with **slim cord design** [(Qty 1)](stl/covid19_headband_rc3_cord_slim.stl) [(Qty 2)](stl/covid19_headband_rc3_cord_slim_qty2.stl) for parachute cord strap. Soft spring browband design provides elasticity.  *Slim design reduces print time and material by half!*
+</br>**Update 4/3/2020!** Added strength to attachment of soft spring to the brow band.  Please update your STL files.
 
 - Four-pin headband with **cinch design** [(Qty 1)](stl/covid19_headband_rc2_cinch.stl) [(Qty 2)](stl/covid19_headband_rc2_cinch_qty2.stl)
 
