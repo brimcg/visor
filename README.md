@@ -60,7 +60,7 @@ I've included a number of preconfigured STL models for different configurations 
 #### CAD design tools used here so you can do your own modifications:
 
 - OpenSCAD design [software](https://www.openscad.org/).  You'll need to read their documents if it's new to you.
-- OpenSCAD [code](covid19_headband_mods.scad) used to generate modified STL model (except slim cord design, sorry, later). You can easily choose your type and strap dimensions, self-expanatory parameters at beginning of the code.  Or use the code as a base for you own design code.
+- OpenSCAD design [code](covid19_headband_mods.scad) used to generate modified STL model (except slim cord design, sorry, later). You can easily choose your type and strap dimensions, self-expanatory parameters at beginning of the code.  Or use the code as a base for you own design code.
 
 ---
 
