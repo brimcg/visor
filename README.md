@@ -11,10 +11,10 @@
 > This ground-up new design takes full advantage of the innovations in our slim cord design and features:
 > - 30% reduced print time and material compared to the last slim design.  That's a time and material reduction of *3.5X* compared to the Prusa RC2.
 > - Smooth integrated shield and arm design.  Reduces breakage points and hard edges.
-> - Flexible brow band design to provide comfort for using widely available fixed length cords.
+> - Flexible brow band design to provide comfort while using widely available fixed length cords.
 > - Integrated cinch holes for adjustable length cord.
 
-You can download STL models in the Makers section now!
+You can download STL models in the Makers section now!  Keep in tune to see our upcoming laser cut version H2L.
 
 ![full assembled model](FullFaceHeadShield.png)
 
