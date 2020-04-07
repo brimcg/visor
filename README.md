@@ -2,9 +2,9 @@
 
 ## Design for Reusable Headband with Low Cost Replacement Shields
 
-> *Brand new design release 4/7/2020*
+> *Brand new design released 4/7/2020*
 
-> ###Welcome **H2**!
+> ###Welcome *H2*!
 
 > ![H2](H2/images/h2_us.png)
 
