@@ -4,7 +4,7 @@
 
 > *Brand new design release 4/7/2020*  We're happy to show you H2, a new design started from the ground up.
 
-> ![H2](H2/images/h2_us.jpg)
+> ![H2](H2/images/h2_us.png)
 
 > - 30% reduced print time and material compared to the last slim design.  That's a time and material reduction of *3.5X* compared to the Prusa RC2.
 > - Smooth integrated shield and arm design.  Reduces breakage points and hard edges.
