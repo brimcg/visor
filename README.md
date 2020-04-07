@@ -2,11 +2,14 @@
 
 ## Design for Reusable Headband with Low Cost Replacement Shields
 
-> *New!*  Slim design released: features soft spring brow band, cord strap. Prints in half the time with half the material.  Add a brow shield for top protection.
->
-> *Update 4/3/2020!* Added strength to attachment of soft spring to the brow band.  Please update your STL files.
->
-> Supply and time shortages led to this modification.  Elastics are getting harder to find, but parachute cord exists in much larger volumes.  By designing the elasticity into the headband itself, a non-elastic cord can be used.  Reducing material for printing doubles production volume with no cost.
+> *Brand new design release 4/7/2020*  We're happy to show you H2, a new design started from the ground up.
+
+> ![H2](H2/images/so_h2_us.jpg)
+
+> - 30% reduced print time and material compared to the last slim design.  That's a time and material reduction of *3.5X* compared to the Prusa RC2.
+> - Smooth integrated shield and arm design.  Reduces breakage points and hard edges.
+> - Maintains flexible brow band design of slim design to provide comfort for using widely available fixed length cords.  Integrated cinch holes also remain.
+> - You can download STL models in the Makers section now!
 
 ![full assembled model](FullFaceHeadShield.png)
 
@@ -59,7 +62,6 @@ I've included a number of preconfigured STL models for different configurations 
 
 ##### STL design models for 3-hole shields using US standard hole punch
 - Three-pin headband with **slim cord design** [(Qty 1)](stl/covid19_headband_3hole_cord_slim.stl) [(Qty 2)](stl/covid19_headband_3hole_cord_slim_qty2.stl) for parachute cord strap. Soft spring browband design provides elasticity.  *Slim design reduces print time and material by half!*
- **Update 4/3/2020!** Added strength to attachment of soft spring to the brow band.  Please update your STL files.
 
 [![Slim design](covid19_headband_3hole_cord_slim.png)](stl/covid19_headband_3hole_cord_slim.stl) [![Slim design 2 pieces](covid19_headband_3hole_cord_slim2.png)](stl/covid19_headband_3hole_cord_slim_qty2.stl)
 
@@ -69,7 +71,6 @@ I've included a number of preconfigured STL models for different configurations 
 
 ##### STL design models for 4-hole shields based on original Prusa RC2
 - Four-pin headband with **slim cord design** [(Qty 1)](stl/covid19_headband_rc3_cord_slim.stl) [(Qty 2)](stl/covid19_headband_rc3_cord_slim_qty2.stl) for parachute cord strap. Soft spring browband design provides elasticity.  *Slim design reduces print time and material by half!*
-**Update 4/3/2020!** Added strength to attachment of soft spring to the brow band.  Please update your STL files.
 
 - Four-pin headband with **cinch design** [(Qty 1)](stl/covid19_headband_rc2_cinch.stl) [(Qty 2)](stl/covid19_headband_rc2_cinch_qty2.stl)
 
