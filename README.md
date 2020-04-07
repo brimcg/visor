@@ -14,7 +14,7 @@
 > - Flexible brow band design to provide comfort while using widely available fixed length cords.
 > - Integrated cinch holes for adjustable length cord.
 
-You can download STL models in the Makers section now!  Keep in tune to see our upcoming laser cut version H2L.
+> - You can download STL models in the Makers section now!  Keep in tune to see our upcoming laser cut version H2L.
 
 ![full assembled model](FullFaceHeadShield.png)
 
