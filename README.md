@@ -8,7 +8,7 @@
 
 > ![H2](H2/images/h2_us.png)
 
-> This ground-up new design incorporates the innovations of our slim cord design and features:
+> This ground-up new design takes full advantage of the innovations in our slim cord design and features:
 > - 30% reduced print time and material compared to the last slim design.  That's a time and material reduction of *3.5X* compared to the Prusa RC2.
 > - Smooth integrated shield and arm design.  Reduces breakage points and hard edges.
 > - Flexible brow band design to provide comfort for using widely available fixed length cords.
