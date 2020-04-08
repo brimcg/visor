@@ -24,7 +24,7 @@ Fully assembled H2 headband with face shield and brow shield
 
 ![headband and face shield](IMG_20200325_170538_small.jpg)
 
-Prior headband with cinch strap and face shield
+Older headband with cinch strap and face shield
 
 ---
 
@@ -52,7 +52,8 @@ For other locations than US, the original designer, [Prusa](https://www.prusapri
 ---
 ---
 
-###For Makers (the new H2)
+###For Makers
+Introducing our brand new released H2 design.  Created from scratch to fully take advantage of the innovations introduced in the slim cord design.  H2 designs the shield to smoothly flow into the arms with a cord cinch.  The continuous flow improves strength and reduces hard edges.  Add most importantly, the new H2 design reduces print time and filament by 30% compared to the prior slim cord design.  That's a 3.5X improvement in print speed compared to the original Prusa RC2 headband!
 
 #### Most Recent H2 STL Models
 
