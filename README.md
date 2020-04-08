@@ -53,7 +53,7 @@ For other locations than US, the original designer, [Prusa](https://www.prusapri
 ---
 
 ### For Makers
-Introducing our brand new released H2 design.  Created from scratch to fully take advantage of the innovations introduced in the slim cord design.  H2 designs the shield to smoothly flow into the arms with a cord cinch.  The continuous flow improves strength and reduces hard edges.  Add most importantly, the new H2 design reduces print time and filament by 30% compared to the prior slim cord design.  That's a 3.5X improvement in print speed compared to the original Prusa RC2 headband!
+Introducing our brand new released H2 design.  Created from scratch to fully take advantage of the innovations introduced in the slim cord design.  H2 designs the shield to smoothly flow into the arms with a cord cinch.  The continuous flow improves strength and reduces hard edges.  And most importantly, the new H2 design reduces print time and filament by 30% compared to the prior slim cord design.  That's a 3.5X improvement in print speed compared to the original Prusa RC2 headband!
 
 #### Most Recent H2 STL Models
 
@@ -91,4 +91,4 @@ I've included a number of preconfigured STL models for different configurations 
 
 ---
 
-Thanks Josef Prusa and team for your open design upon which this visor is based.  Original model was obtained [here](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1).  Their [link](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1) provides good documentation of the design and use.  The modifications here were made to support rapid local use.
+Thanks Josef Prusa and team for your open design upon which the first visors were based.  Original Prusa RC2 model was obtained [here](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1).  Their [link](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1) provides good documentation of the design and use.  The modifications here were made to support rapid local use.
