@@ -58,7 +58,7 @@ Introducing our brand new released H2 design.  Created from scratch to fully tak
 #### Most Recent H2 STL Models
 
 ##### H2 STL models for 3-hole shields using US standard hole punch
- - Three-pin H2 headband with cinch [(Qty 1)](H2/stl/so_h2_us.stl) [(Qty 2)](H2/stl/so_h2_us_qty2.stl) for paracord
+ - Three-pin **H2** headband with cinch [(Qty 1)](H2/stl/so_h2_us.stl) [(Qty 2)](H2/stl/so_h2_us_qty2.stl) for paracord
  
 ![H2 Qty 1 print](H2/images/h2_us.png) ![H2 Qty 2 print](H2/images/h2_us_qty2.png)
 
