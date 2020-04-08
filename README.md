@@ -53,7 +53,7 @@ For other locations than US, the original designer, [Prusa](https://www.prusapri
 ---
 
 ### For Makers
-Introducing our brand new released H2 design.  Created from scratch to fully take advantage of the innovations introduced in the slim cord design.  H2 designs the shield to smoothly flow into the arms with a cord cinch.  The continuous flow improves strength and reduces hard edges.  And most importantly, the new H2 design reduces print time and filament by 30% compared to the prior slim cord design.  That's a 3.5X improvement in print speed compared to the original Prusa RC2 headband!
+Introducing our brand new released H2 design.  Created from scratch to fully take advantage of the innovations introduced in the slim cord design, H2 designs the shield band to smoothly flow into the arms with a cord cinch.  The continuous flow improves strength and reduces hard edges.  And most importantly, the new H2 design reduces print time and filament by 30% compared to the prior slim cord design.  That's a 3.5X improvement in print speed compared to the original Prusa RC2 headband!
 
 #### Most Recent H2 STL Models
 
