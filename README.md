@@ -4,7 +4,7 @@
 
 > *Brand new design released 4/7/2020*
 
-> ###Welcome *H2*!
+> ###Introducing *H2*!
 
 > ![H2](H2/images/h2_us.png)
 
@@ -58,7 +58,9 @@ For other locations than US, the original designer, [Prusa](https://www.prusapri
 ---
 ---
 
-### For Makers
+For Makers (the new H2)
+
+### Older designs
 
 Help generate headbands for our urgent care providers. Choose a design that fits the band that you can obtain, or modify to your own design.  If you do create equipment, it is important to create a sterile environment and handling so that you don't accidentally transmit any virus.  Here you will find:
 
@@ -82,10 +84,10 @@ I've included a number of preconfigured STL models for different configurations 
 - Four-pin unmodified **original Prusa design RC2** [(Qty 1)](stl/covid19_headband_rc2_button.stl) [(Qty 2)](stl/covid19_headband_rc2_button_qty2.stl) with button design 
 
 
-#### CAD design tools used here so you can do your own modifications:
+##### CAD design tools used here so you can do your own modifications:
 
 - OpenSCAD design [software](https://www.openscad.org/).  You'll need to read their documents if it's new to you.
-- OpenSCAD design [code](covid19_headband_mods.scad) used to generate modified STL models (except slim cord design). You can easily choose your type and strap dimensions, self-expanatory parameters at beginning of the code.  Or use the code as a base for you own design code.
+- OpenSCAD design [code](covid19_headband_mods.scad) used to generate modified STL models (except slim cord design or new H2). You can easily choose your type and strap dimensions, self-expanatory parameters at beginning of the code.  Or use the code as a base for you own design code.
 
 ---
 
