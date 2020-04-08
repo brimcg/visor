@@ -16,7 +16,7 @@
 
 > - You can download STL models in the Makers section now!  Keep in tune to see our upcoming laser cut version H2L.
 
-![full assembled model](H2/images/H2FullAssembly.jpg)
+![full assembled model](H2/images/H2FullAssembly400.jpg)
 
 Fully assembled H2 headband with face shield and brow shield
 
@@ -54,14 +54,14 @@ For other locations than US, the original designer, [Prusa](https://www.prusapri
 
 ###For Makers (the new H2)
 
-#### H2 STL Models
+#### Most Recent H2 STL Models
 
 ##### H2 STL models for 3-hole shields using US standard hole punch
  - Three-pin H2 headband with cinch [(Qty 1)](H2/stl/so_h2_us.stl) [(Qty 2)](H2/stl/so_h2_us_qty2.stl) for paracord
  
 ![H2 Qty 1 print](H2/images/h2_us.png) ![H2 Qty 2 print](H2/images/h2_us_qty2.png)
 
-### Older designs
+### Archive of older designs
 
 Help generate headbands for our urgent care providers. Choose a design that fits the band that you can obtain, or modify to your own design.  If you do create equipment, it is important to create a sterile environment and handling so that you don't accidentally transmit any virus.  Here you will find:
 
@@ -70,8 +70,6 @@ I've included a number of preconfigured STL models for different configurations 
 
 ##### STL design models for 3-hole shields using US standard hole punch
 - Three-pin headband with **slim cord design** [(Qty 1)](stl/covid19_headband_3hole_cord_slim.stl) [(Qty 2)](stl/covid19_headband_3hole_cord_slim_qty2.stl) for parachute cord strap. Soft spring browband design provides elasticity.  *Slim design reduces print time and material by half!*
-
-[![Slim design](covid19_headband_3hole_cord_slim.png)](stl/covid19_headband_3hole_cord_slim.stl) [![Slim design 2 pieces](covid19_headband_3hole_cord_slim2.png)](stl/covid19_headband_3hole_cord_slim_qty2.stl)
 
 - Three-pin headband with **cinch design** [(Qty 1)](stl/covid19_headband_3hole_cinch.stl) [(Qty 2)](stl/covid19_headband_3hole_cinch_qty2.stl) for flat 3/4" (38mm) elastic bands (non-elastic bands can also marginally work)
 
