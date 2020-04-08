@@ -16,15 +16,9 @@
 
 > - You can download STL models in the Makers section now!  Keep in tune to see our upcoming laser cut version H2L.
 
-![full assembled model](FullFaceHeadShield.png)
+![full assembled model](H2/images/H2FullAssembly.jpg)
 
-Fully assembled slim headband with face shield and brow shield
-
----
-
-![headband and brow shield](slim_headband_headshield.jpg)
-
-Slim headband with brow shield
+Fully assembled H2 headband with face shield and brow shield
 
 ---
 
@@ -58,7 +52,14 @@ For other locations than US, the original designer, [Prusa](https://www.prusapri
 ---
 ---
 
-For Makers (the new H2)
+###For Makers (the new H2)
+
+#### H2 STL Models
+
+##### H2 STL models for 3-hole shields using US standard hole punch
+ - Three-pin H2 headband with cinch [(Qty 1)](H2/stl/so_h2_us.stl) [(Qty 2)](H2/stl/so_h2_us_qty2.stl) for paracord
+ 
+![H2 Qty 1 print](H2/images/h2_us.png) ![H2 Qty 2 print](H2/images/h2_us_qty2.png)
 
 ### Older designs
 
