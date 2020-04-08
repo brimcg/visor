@@ -4,7 +4,7 @@
 
 > *Brand new design released 4/7/2020*
 
-> ###Introducing *H2*!
+> ### Introducing *H2*!
 
 > ![H2](H2/images/h2_us.png)
 
