@@ -3,17 +3,17 @@
 ## Design for Reusable Headband with Low Cost Replacement Shields
 
 > *Brand new design released 4/7/2020*
-
+>
 > ### Introducing *H2*!
-
+>
 > ![H2](H2/images/h2_us.png)
-
+>
 > This ground-up new design takes full advantage of the innovations in our slim cord design and features:
 > - 30% reduced print time and material compared to the last slim design.  That's a time and material reduction of *3.5X* compared to the Prusa RC2.
 > - Smooth integrated shield and arm design.  Reduces breakage points and hard edges.
 > - Flexible brow band design to provide comfort while using widely available fixed length cords.
 > - Integrated cinch holes for cord length adjustment.
-
+>
 > - You can download STL models in the Makers section now!  Keep in tune to see our upcoming laser cut version H2L.
 
 ![full assembled model](H2/images/H2FullAssembly800.jpg)
