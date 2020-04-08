@@ -16,7 +16,7 @@
 
 > - You can download STL models in the Makers section now!  Keep in tune to see our upcoming laser cut version H2L.
 
-![full assembled model](H2/images/H2FullAssembly400.jpg)
+![full assembled model](H2/images/H2FullAssembly800.jpg)
 
 Fully assembled H2 headband with face shield and brow shield
 
