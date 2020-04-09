@@ -64,9 +64,9 @@ Introducing our brand new released H2 design.  Created from scratch to fully tak
 [![H2 Qty 1 print](H2/images/h2_us.png)](H2/stl/so_h2_us.stl) [![H2 Qty 2 print](H2/images/h2_us_qty2.png)](H2/stl/so_h2_us_qty2.stl)
 
 ##### H2 STL models for 3DVerstan North American shields
- - Six-pin **H2** headband with cinch [(Qty 1)](H2/stl/so_h2_us_verstan.stl) [(Qty 2)](H2/stl/so_h2_us_verkstan_qty2.stl) for paracord
+ - Six-pin **H2** headband with cinch [(Qty 1)](H2/stl/so_h2_us_verkstan.stl) [(Qty 2)](H2/stl/so_h2_us_verkstan_qty2.stl) for paracord
  
-[![H2 Qty 1 print](H2/images/h2_us_verkstan.png)](H2/stl/so_h2_us_verstan.stl) [![H2 Qty 2 print](H2/images/h2_us_verkstan_qty2.png)](H2/stl/so_h2_us_verkstan_qty2.stl)
+[![H2 Qty 1 print](H2/images/h2_us_verkstan.png)](H2/stl/so_h2_us_verkstan.stl) [![H2 Qty 2 print](H2/images/h2_us_verkstan_qty2.png)](H2/stl/so_h2_us_verkstan_qty2.stl)
 
 ### Archive of older designs
 
