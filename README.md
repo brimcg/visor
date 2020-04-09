@@ -3,7 +3,7 @@
 ## Design for Reusable Headband with Low Cost Replacement Shields
 
 > *Brand new design released 4/7/2020*
-> *Added 3DVerstan North American shield designs 4/8/2020*
+>  - *Added 3DVerstan North American shield designs 4/8/2020*
 >
 > ### Introducing *H2*!
 >
