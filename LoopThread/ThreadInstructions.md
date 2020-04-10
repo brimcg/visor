@@ -10,7 +10,7 @@ Step 3: Thread elastic through wide hole from inside of headband
 
 Step 4: Pull tight and adjust to length desired
 
-![Cord photo](H2/images/H2_thread_cord400.jpg)
+![Cord photo](H2_threaded_cord400.jpg)
 
 Repeat on other side!
 
