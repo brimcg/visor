@@ -14,7 +14,7 @@ Step 4: Adjust to length desired and pull tight
 
 Repeat on other side!
 
-For wearing adjustment: slip cord in and out in desired direction for a tighter or looser fit.  Adjust for comfortable pressure from the flexible brow band.  To adjust up or down on brow while wearing, lightly push in both on sides of the headband and it will temporarily loosen to ease up/down position.
+For wearing adjustment: slip cord in and out in desired direction for a tighter or looser fit.  Adjust for comfortable pressure from the flexible brow band.  To adjust up or down on brow while wearing, lightly push in on both sides of the headband and it will temporarily loosen to ease up/down position.
 
 ---
 
