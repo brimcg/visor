@@ -45,7 +45,7 @@ For other locations than US, the original designer, [Prusa](https://www.prusapri
 
 #### Instructions
 
-- [Threading](LoopThread/ThreadInstructions.md) of band for cinch or slim cord designs.  Tip:  The band or cord should be approximately 18" (46cm).
+- [Threading](LoopThread/ThreadInstructions.md) of band for H2, slim cord and older cinch designs.  Tip:  The band or cord should be approximately 18" (46cm).
 - Making shields for [three-hole design](3HoleShieldInstructions.md)
 - Making top [brow shields](BrowShieldInstructions.md) for three-hole design
 - Making shields for four-hole design using [cut template](PrusaFaceShieldHolesRC2.pdf)
