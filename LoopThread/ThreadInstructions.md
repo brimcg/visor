@@ -1,18 +1,16 @@
-# How to thread cord (paracord 550 recommended) (easiest method)
+# How to thread cord (paracord 550 recommended, easiest method)
 
 Tip: The cord should be approximately 18" (46cm).
 
-Step 1: Thread elastic through wide hole from outside of headband
+Step 1: Thread elastic through narrow forwardmost hole from inside of headband
 
-Step 2: Thread elastic through narrow forwardmost hole from inside of headband
+Step 2: Thread elastic through narrow center hole from outside of headband
 
-Step 3: Thread elastic through narrow center hole from outside of headband
+Step 3: Thread elastic through wide hole from inside of headband
 
-Step 4: Thread elastic through wide hole from inside of headband
+Step 4: Pull tight and adjust to length desired
 
-Step 5: Pull tight and adjust to length desired
-
-![Cord photo](H2_thread_cord400.jpg)
+![Cord photo](H2/images/H2_thread_cord400.jpg)
 
 Repeat on other side!
 
