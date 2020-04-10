@@ -1,4 +1,4 @@
-# How to thread cord (paracord 550 recommended, easiest method)
+# How to thread cord for H2 and slim (paracord 550 recommended, easiest method)
 
 Tip: The cord should be approximately 18" (46cm).
 
