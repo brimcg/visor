@@ -42,7 +42,7 @@ Visors to shield the face are the first line of defense when confronted with inf
 
 To make shields easy to obtain in the US market, a standard three-hole punch design is utilized.  Thus high volume production of shields requires only a ream of transparency sheets and a three-hole punch, both of which are widely available.  Alternate shield materials can also be used if dimensioned to the standard 11" width.
 
-Additional shield designs that have gained traction recently are [3DVerkstan](https://3dverkstan.se/protective-visor/protective-visor-versions/) and [Prusa](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1).  Depending upon who you are working with, they may have a preferred shield design.  As such, I've provide designs that are compatible with these other shields.  See in the Maker section below.  If you have a shield design with different hole placements that you would like me to support, send a request to the contact listed below. If reasonable, I can publish a supporting design rather quickly.
+Additional shield designs that have gained traction recently are [3DVerkstan](https://3dverkstan.se/protective-visor/protective-visor-versions/) and [Prusa](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1).  Depending upon who you are working with, they may have a preferred shield design.  As such, I've provided designs that are compatible with these other shields.  See in the Maker section below.  If you have a shield design with different hole placements that you would like me to support, send a request to the contact listed below. If reasonable, I can publish a supporting design rather quickly.
 
 #### Instructions
 
@@ -60,7 +60,7 @@ Introducing our brand new released H2 design.  Created from scratch to fully tak
 If you have a shield design with different hole placements that you would like me to support, send a request to the contact listed below. If reasonable, I can publish a supporting design rather quickly. 
 
 #### Most Recent H2 STL Models
-I've been printing these models for our local county health department on a Prusa i3 MK3.  I'm using PETG as material, 0.4mm nozzle, 0.2mm height, 70% infill.  The high infill is only a small time penalty and gives a bit more robustness to the joins.  Under these conditions, I'm seeing 1:54 print times for a Qty 2 piece print.  I haven't optimized gcode at all, this is pure design optimization.  So there is room for print optimizations.
+I've been printing these models for donation to our local county health department on a Prusa i3 MK3.  I'm using PETG as material, 0.4mm nozzle, 0.2mm height, 70% infill.  The high infill is only a small time penalty and gives a bit more robustness to the joins.  Under these conditions, I'm seeing 1:54 print times for a Qty 2 piece print.  I haven't optimized gcode at all, this is pure design optimization.  So there is room for print optimizations.
 
 ##### H2 STL models for 3-hole shields using US standard hole punch
  - Three-pin **H2** headband with cinch [(Qty 1)](H2/stl/so_h2_us.stl) [(Qty 2)](H2/stl/so_h2_us_qty2.stl) for paracord
