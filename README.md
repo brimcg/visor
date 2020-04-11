@@ -49,6 +49,7 @@ Additional shield designs that have gained traction recently are [3DVerkstan](ht
 - [Threading](LoopThread/ThreadInstructions.md) of band for H2, slim cord and older cinch designs.  Tip:  The band or cord should be approximately 18" (46cm).
 - Making shields for [three-hole design](3HoleShieldInstructions.md)
 - Making top [brow shields](BrowShieldInstructions.md) for three-hole design
+- Don't expose the plastics to high temperature.  The heat will deform the material.
 
 ---
 ---
