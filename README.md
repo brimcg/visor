@@ -42,7 +42,7 @@ Visors to shield the face are the first line of defense when confronted with inf
 
 To make shields easy to obtain in the US market, a standard three-hole punch design is utilized.  Thus high volume production of shields requires only a ream of transparency sheets and a three-hole punch, both of which are widely available.  Alternate shield materials can also be used if dimensioned to the standard 11" width.
 
-Additional shield designs that have gained traction recently are [3DVerkstan](https://3dverkstan.se/protective-visor/protective-visor-versions/) and [Prusa](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1).  Depending upon who you are working with, they may have a preferred shield design.  As such, I've provide designs that are compatible with these other shields.  See in the Maker section below.  If you have a shield design with different hole placements that you would like me to support, send me a request by email to the Github contact listed below. If reasonable, I can publish a supporting design rather quickly.
+Additional shield designs that have gained traction recently are [3DVerkstan](https://3dverkstan.se/protective-visor/protective-visor-versions/) and [Prusa](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1).  Depending upon who you are working with, they may have a preferred shield design.  As such, I've provide designs that are compatible with these other shields.  See in the Maker section below.  If you have a shield design with different hole placements that you would like me to support, send a request to the contact listed below. If reasonable, I can publish a supporting design rather quickly.
 
 #### Instructions
 
@@ -56,7 +56,7 @@ Additional shield designs that have gained traction recently are [3DVerkstan](ht
 ### For Makers
 Introducing our brand new released H2 design.  Created from scratch to fully take advantage of the innovations introduced in the slim cord design, H2 designs the shield band to smoothly flow into the arms with a cord cinch.  The continuous flow improves strength and reduces hard edges.  And most importantly, the new H2 design reduces print time and filament by 30% compared to the prior slim cord design.  That's a 3.5X improvement in print speed compared to the original Prusa RC2 headband!
 
-If you have a shield design with different hole placements that you would like me to support, send me a request by email to the Github contact listed below. If reasonable, I can publish a supporting design rather quickly. 
+If you have a shield design with different hole placements that you would like me to support, send a request to the contact listed below. If reasonable, I can publish a supporting design rather quickly. 
 
 #### Most Recent H2 STL Models
 I've been printing these models for our local county health department on a Prusa i3 MK3.  I'm using PETG as material, 0.4mm nozzle, 0.2mm height, 70% infill.  The high infill is only a small time penalty and gives a bit more robustness to the joins.  Under these conditions, I'm seeing 1:54 print times for a Qty 2 piece print.  I haven't optimized gcode at all, this is pure design optimization.  So there is room for print optimizations.
