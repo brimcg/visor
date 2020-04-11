@@ -4,6 +4,7 @@
 
 > *Brand new design released 4/7/2020*
 >  - *Added design for 3DVerkstan North American shields 4/8/2020*
+>  - *Added design for Prusa shields 4/10/2020*
 >
 > ### Introducing *H2*!
 >
@@ -67,6 +68,11 @@ Introducing our brand new released H2 design.  Created from scratch to fully tak
  - Six-pin **H2** headband with cinch [(Qty 1)](H2/stl/so_h2_us_verkstan.stl) [(Qty 2)](H2/stl/so_h2_us_verkstan_qty2.stl) for paracord
  
 [![H2 Qty 1 print](H2/images/h2_us_verkstan.png)](H2/stl/so_h2_us_verkstan.stl) [![H2 Qty 2 print](H2/images/h2_us_verkstan_qty2.png)](H2/stl/so_h2_us_verkstan_qty2.stl)
+
+##### H2 STL models for Prusa shields
+ - Four-pin **H2** headband with cinch [(Qty 1)](H2/stl/so_h2_prusa.stl) [(Qty 2)](H2/stl/so_h2_prusa_qty2.stl) for paracord
+ 
+[![H2 Qty 1 print](H2/images/h2_prusa.png)](H2/stl/so_h2_prusa.stl) [![H2 Qty 2 print](H2/images/h2_prusa_qty2.png)](H2/stl/so_h2_prusa_qty2.stl)
 
 ### Archive of older designs
 
