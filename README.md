@@ -42,7 +42,7 @@ Visors to shield the face are the first line of defense when confronted with inf
 
 To make shields easy to obtain in the US market, a standard three-hole punch design is utilized.  Thus high volume production of shields requires only a ream of transparency sheets and a three-hole punch, both of which are widely available.  Alternate shield materials can also be used if dimensioned to the standard 11" width.
 
-Additional shield designs that have gained traction recently are [3DVerkstan](https://3dverkstan.se/protective-visor/protective-visor-versions/) and [Prusa](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1).  Depending upon who you are working with, they may have a preferred shield design.  As such, I've provide designs that are compatible with these other shields.  See in the Maker section below.
+Additional shield designs that have gained traction recently are [3DVerkstan](https://3dverkstan.se/protective-visor/protective-visor-versions/) and [Prusa](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1).  Depending upon who you are working with, they may have a preferred shield design.  As such, I've provide designs that are compatible with these other shields.  See in the Maker section below.  If you have a shield design with different hole placements that you would like me to support, send me a request by email to the Github contact listed below. If reasonable, I can publish a supporting design rather quickly.
 
 #### Instructions
 
