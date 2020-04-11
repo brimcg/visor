@@ -49,7 +49,6 @@ Additional shield designs that have gained traction recently are [3DVerkstan](ht
 - [Threading](LoopThread/ThreadInstructions.md) of band for H2, slim cord and older cinch designs.  Tip:  The band or cord should be approximately 18" (46cm).
 - Making shields for [three-hole design](3HoleShieldInstructions.md)
 - Making top [brow shields](BrowShieldInstructions.md) for three-hole design
-- Making shields for four-hole design using [cut template](PrusaFaceShieldHolesRC2.pdf)
 
 ---
 ---
@@ -107,3 +106,9 @@ I've included a number of preconfigured STL models for different configurations 
 ---
 
 Thanks Josef Prusa and team for your open design upon which the first visors were based.  Original Prusa RC2 model was obtained [here](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1).  Their [link](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc1) provides good documentation of the design and use.  The modifications here were made to support rapid local use.
+
+---
+
+---
+
+Contact me [@brimcg](mailto:brimcg02020@gmail.com)
