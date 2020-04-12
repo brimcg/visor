@@ -112,4 +112,4 @@ Thanks Josef Prusa and team for your open design upon which the first visors wer
 
 ---
 
-Contact me [@brimcg](mailto:brimcg02020@gmail.com)
+Material has been released under [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html).  Contact me [@brimcg](mailto:brimcg02020@gmail.com)
