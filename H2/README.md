@@ -9,7 +9,7 @@
 - Support: None
 - Brim: Off
 
-- [Gcode](so_h2_us_qty2_0.3mm_PETG_MK3_1h2m.gcode) using recommendations for Qty 2 H2 US 3-pin on a Prusa i3 MK3
+- [Gcode](gcode/PrusaMK3/so_h2_us_qty2_0.3mm_PETG_MK3_1h2m.gcode) using recommendations for Qty 2 H2 US 3-pin on a Prusa i3 MK3
 
 ## Legend
 - US (3-pin for standard US 3-hole punch shields)
