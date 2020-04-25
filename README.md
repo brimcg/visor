@@ -60,7 +60,7 @@ Introducing our brand new released H2 design.  Created from scratch to fully tak
 If you have a shield design with different hole placements that you would like me to support, send a request to the contact listed below. If reasonable, I can publish a supporting design rather quickly. 
 
 #### Most Recent H2 STL Models
-I've been printing these models for donation to our local county health department on a Prusa i3 MK3.  I'm using PETG as material, 0.4mm nozzle, 0.2mm height, 70% infill.  The high infill is only a small time penalty and gives a bit more robustness to the joins.  Under these conditions, I'm seeing 1:54 print times for a Qty 2 piece print.  I haven't optimized gcode at all, this is pure design optimization.  So there is room for print optimizations.
+I've been printing these models for donation to our local county health department on a Prusa i3 MK3.  I'm using PrusaSlicer 2.2.0 with PETG as material, 0.4mm nozzle, 0.3mm height, 70% infill, no supports, no brim.  The high infill is only a small time penalty and gives a bit more robustness to the joins.  Under these conditions, I'm seeing 1:02 print times for a Qty 2 piece print.
 
 ##### H2 STL models for 3-hole shields using US standard hole punch
  - Three-pin **H2** headband with cinch [(Qty 1)](H2/stl/so_h2_us.stl) [(Qty 2)](H2/stl/so_h2_us_qty2.stl) for paracord
