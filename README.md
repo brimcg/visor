@@ -24,12 +24,6 @@ Fully assembled H2 headband with face shield and brow shield
 
 ---
 
-![headband and face shield](older/IMG_20200325_170538_small.jpg)
-
-Older headband with cinch strap and face shield
-
----
-
 The urgent need for personal protection equipment in this time of covid19 pandemic is the motivation for these documents.  This is an attempt to provide additional equipment by local community members to help with any shortages of approved equipment.  Please feel free to submit your own suggestions and feedback.
 
 
